@@ -1,7 +1,7 @@
 puts "Welcome to my election voting program"
 puts "Election candidates are: Donald Duck, Minnie Mouse, Goofy"
 
-puts "here are your candidates"
+puts "Here are your candidates.. please enter a, b or c: "
 puts "A. Donald"
 puts "B. Minnie Mouse"
 puts "C. Goofy"

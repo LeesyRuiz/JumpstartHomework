@@ -7,7 +7,12 @@ number_students.times do
   first_name = gets.chomp.upcase
   print "Enter your last name: "
   last_name = gets.chomp.upcase
+
   student_names << "#{first_name} #{last_name}"
+
+
+
+
   end
 
 # STUDENT ID GENERATOR
